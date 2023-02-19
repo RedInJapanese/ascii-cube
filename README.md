@@ -9,6 +9,7 @@
   - The origins of a given vector has to remain fixed
 
 **Vector Space**: A set of vectors containing elements that can be added or multiplied by scalars
+
 **Basis Vectors**: A set of vectors is considered a basis if the elements of the set creat unique combinations of vectors in the bigger vector space
 
 ## Rotation Matrix
