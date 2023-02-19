@@ -7,8 +7,9 @@
 #### The two properties of linear transformations:
    - All lines have to be lines and not have curvature
    - The origins of a given vector has to remain fixed
-**Basis Vectors**: 
 **Vector Space**:
+**Basis Vectors**: 
+
 ## Rotation Matrix
 
 
