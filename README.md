@@ -2,8 +2,8 @@
  My implementation of the spinning ASCII cube in C
 
 ## Terminology
-**Euclidean Space**: refers to the fundamental space of geometry used to represent physical space
-**Transformation Matrices**: 
+**Euclidean Space** : refers to the fundamental space of geometry used to represent physical space
+**Transformation Matrices** : 
 ## Rotation Matrix
 
 
